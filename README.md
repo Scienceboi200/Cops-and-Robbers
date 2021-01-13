@@ -1,2 +1,2 @@
-# trex
-Chrome's trex game created using p5.play
+# Cops&Robbers
+My spinn off of the chrome game
